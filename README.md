@@ -9,3 +9,5 @@
 こんにちは、GitHub4!
 
 こんにちは、GitHub5!
+
+こんにちは、GitHub6!
